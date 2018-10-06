@@ -1,5 +1,11 @@
 # CampusConnect-KJ
 Submission for for KJSCE Hackathon 2018 [Meeting Minutes] by Team CampusConnect
+<br>
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/sarthakdadhakar/CampusConnect-KJ/master/app/src/main/res/drawable/meeting.png">
+<br>
+<br>
 # Meetify
 
 Frustrated by managing meeting minutes ?
