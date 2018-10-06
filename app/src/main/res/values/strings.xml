@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Meetify</string>
+    <string name="title_activity_homepage">Your Meetings</string>
+    <string name="test_speech">Road bicycle racing is the cycle sports discipline of road cycling, held on paved roads. Road racing is the most popular professional form of bicycle racing, in terms of numbers of competitors, event, and spectators. The two most common competition formats are mass start events, where riders start simultaneously and race to set finish point; and time trials, where individual riders or teams race a course alone against the clock.</string>
+    <string name="title_activity_meeting_details">MeetingDetails</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
