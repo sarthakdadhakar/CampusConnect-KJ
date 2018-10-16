@@ -12,7 +12,7 @@ Frustrated by managing meeting minutes ?
 Our AI-Based android app can help you!
 
 We present  to you 'Meetify' - An AI based solution to the problem "Meeting minutes"
-In which our smart assistant will continuously listen to the audio and perform automatic speaker segregation and text analysis using IBM Watson AI Engine and record important keywords, sentiment of the speakers involved in the meetings, it also allows meeting manageres to add assign tasks,set reminders all integrated directly into app.
+In which our smart assistant will continuously listen to the audio and perform automatic speaker segregation and text analysis using IBM Watson AI Engine and record important keywords, sentiment of the speakers involved in the meetings, it also allows meeting managers to add assign tasks,set reminders all integrated directly into app.
 
 # Features!
 1. Realtime transcripts generation using Speech to text using IBM Watson API
